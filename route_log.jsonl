@@ -1,0 +1,8 @@
+{"intent": "code", "confidence": 0.91, "user_message": "User: how do i sort list in python", "final_response": "Generated response for: User: how do i sort list in python"}
+{"intent": "code", "confidence": 0.91, "user_message": "I'm preparing for a job interview, any tips?", "final_response": "Generated response for: I'm preparing for a job interview, any tips?"}
+{"intent": "code", "confidence": 0.91, "user_message": "hey", "final_response": "Generated response for: hey"}
+{"intent": "code", "confidence": 0.91, "user_message": "how do i sort list in python", "final_response": "Generated response for: how do i sort list in python"}
+{"intent": "code", "confidence": 0.91, "user_message": "hey", "final_response": "Generated response for: hey"}
+{"intent": "code", "confidence": 0.9, "user_message": "how do i sort list in python", "final_response": "Generated response for: how do i sort list in python"}
+{"intent": "career", "confidence": 0.9, "user_message": "I'm preparing for a job interview", "final_response": "Generated response for: I'm preparing for a job interview"}
+{"intent": "unclear", "confidence": 0.4, "user_message": "hey", "final_response": "I'm not sure what you need help with. Are you asking about coding, data analysis, writing, or career advice?"}
